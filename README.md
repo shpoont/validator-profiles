@@ -11,6 +11,7 @@ The following staking pools and node infrastructure providers support the NuCyph
 * [DELIGHT](./profiles/DELIGHT)
 * [Figment](./profiles/Figment)
 * [InfStones](./profiles/InfStones)
+* [Nodefolio](./profiles/Nodefolio)
 * [P2PValidator](./profiles/P2PValidator)
 * [Staked](./profiles/Staked)
 
